@@ -1,0 +1,6 @@
+Test ID;Return code validation;Out result;StdErr result;File creation result;Global result
+TestFichierLogManquant;2;2;0;2;0
+TestOptionInvalide;2;2;0;2;0
+TestTopDix;2;2;0;2;0
+TestTopDixFiltreParHeure;2;0;2;2;0
+TestTopDixSansExtensions;2;0;2;2;0
